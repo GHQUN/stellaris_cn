@@ -30,7 +30,7 @@
  anomaly.6006.desc:0 "对 [From.GetName]的扫描结束，科技官 [Root.GetLeaderName]对这里的反常现象准备了一份报告。"
  anomaly.6006.a:0 "请报告， [Root.GetLeaderName]。"
  anomaly.6007.name:0 "矿藏丰富"
- anomaly.6007.desc:0 " [From.From.GetName]的地壳中有丰富且易于采集的矿藏，这将使采矿业成为这里一项利润丰厚的事业。"
+ anomaly.6007.desc:0 " [From.From.GetName]的地壳中有丰富且易于采集的矿藏，这将使采矿业在这里成为一项利润丰厚的事业。"
  anomaly.6008.desc:0 " [From.From.GetName]的天气模式捉摸不定，暴风常常突然形成并对地表产生严重损毁。在这里建设风力发电厂可提供丰富的能源。"
  anomaly.6009.desc:0 " [From.From.GetName]居住有极为凶猛的动物群，地面上四处埋伏着等候饱餐一顿的凶恶食肉动物。对于生物领域来说这是一次极佳的研究机会。"
  anomaly.6010.desc:0 "尽管可以居住， [From.From.GetName]几乎没有磁场，因而无法抵御宇宙辐射。"
